@@ -1,8 +1,9 @@
 package godepsolver_test
 
 import (
-	"godepsolver"
 	"testing"
+
+	"github.com/tapvanvn/godepsolver"
 )
 
 //A->AB,AC,AD
